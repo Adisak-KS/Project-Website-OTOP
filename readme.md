@@ -84,8 +84,7 @@ ___
 
     1. ของผู้ดูแลระบบ (Admin)
         1.1 หน้า Login เข้าสู่ระบบ
-            [Image](preview_otop/admin/01_login_admin.png)
-
+           ![Image](https://arnaiz.com.ph/wp-content/uploads/2018/04/aaaa01.jpg)
         1.2 หน้าแรก
             [Image](preview_otop/admin/02_index.png)
 
