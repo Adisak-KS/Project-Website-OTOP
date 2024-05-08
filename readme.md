@@ -99,3 +99,108 @@ ___
     Username : Admin1
     Password : Admin1
 ___
+
+### 💻 ตัวอย่างเว็บไซต์
+
+**ของผู้ดูแลระบบ (Admin)**
+1. หน้า Login เข้าสู่ระบบ
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/01_login_admin.png)
+
+2. หน้าแรกของผู้ดูแลระบบ
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/02_index.png)
+
+
+3. หน้าแสดงข้อมูลสมาชิก
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/03_member_Show.png)
+
+
+4. หน้าแสดงช่องทางชำระเงิน
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/04_payment.png)
+
+
+5. หน้าแสดงข้อมูลสินค้า
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/05_product_show.png)
+
+6. หน้าแก้ไขข้อมูลสินค้า
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/06_product_edit.png)
+
+7. Sweetalert2 เมื่อเพิ่ม ลบ แก้ไข สำเร็จ/ไม่สำเร็จ
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/07_sweetalert.png)
+
+8. หน้าลบข้อมูลสินค้า
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/08_delete_product.png)
+
+9. หน้าแสดงรายการสั่งซื้อ
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/09_order_show.png)
+
+10. หน้าตรวจสอบและอัปเดทรายการสั่งซื้อ
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/10_order_edit.png)
+
+11. หน้าแสดงรายการที่รอจัดส่ง
+   
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/admin/11_deliverly_edit_form.png)
+
+
+___
+
+**ของสมาชิก & ผู้ใช้ทั่วไป(Member & User)**
+
+1. หน้าแรกของเว็บไซต์
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/01_index.png)
+
+2. หน้าสมัครสมาชิก
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/02_register.png)
+
+3. หน้า Login เข้าสู่ระบบ
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/03_login.png)
+
+4. หน้าแสดงสินค้าทั้งหมด
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/04_products_show.png)
+
+5. หน้าแสดงรายละเอียดสินค้าแต่ละรายการ
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/05_product_detail.png)
+
+6. หน้าติดต่อเรา
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/06_contact.png)
+
+7. หน้าแสดงสินค้าทั้งหมด
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/05_product_detail.png)
+
+8. หน้าจัดการบัญชีของฉัน
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/07_my_account_setting.png)
+
+9. หน้าตะกร้าสินค้า
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/08_cart_show.png)
+
+10. หน้าอัปโหลดหลักฐานการชำระเงิน
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/10_upload_slip.png)
+
+11. หน้าแสดงประวัติสั่งซื้อสินค้า
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/11_history_order.png)
+
+12. หน้า Confirm ยกเลิกรายการสั่งซื้อ
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/12_history_order_confirm_cancel.png)
+
+13. หน้าแสดงรายละเอียดประวัติการสั่งซื้อแต่ละรายการ
+
+![index](https://github.com/Adisak-KS/Project-Website-OTOP/blob/main/preview_otop/member/13_history_order_detail.png)
